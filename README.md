@@ -4,9 +4,10 @@
 - This is my repo for the Makers Module 1 - Command Line & Git Challenge
 
 ## Objectives
-- [x] Create a basic project structure
-- [x] Enable version control (git)
-- [x] Upload your project structure to a remote host (GitHub)
+I used this challenge to practise:
+- [x] Using the command line to create a basic project structure
+- [x] Enabling version control (git)
+- [x] Uploading my project structure to a remote host (GitHub)
 
 ## Setup
-- No setup needed ... this repo was purely to practise my new command line and git skills!
+- No setup needed ... this repo was purely to practise my new command line and version control skills!
